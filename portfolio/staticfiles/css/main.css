@@ -1,0 +1,9 @@
+h1{
+    color: red;
+}
+
+#profile-pic{
+    margin-top: 50px;
+    width: 100%;
+    clip-path: circle(300px at center);
+}
